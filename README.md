@@ -1,0 +1,1 @@
+Local de querys salvas do projeto no kaggle
